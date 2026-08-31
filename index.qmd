@@ -11,6 +11,8 @@ page-layout: full
 
 I am a PhD student at **Renmin University of China**, based in Beijing. I research journalism and communication in relation to rural areas and development in the Global South.
 
+Outside academia, I enjoy cycling, hiking, and backpacking. I have cycled more than 10,000 kilometers and am currently thinking about taking up swimming.
+
 ::: {.hero-links}
 [View research](research.qmd){.btn .btn-primary}
 :::
