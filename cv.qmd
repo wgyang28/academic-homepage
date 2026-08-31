@@ -2,12 +2,14 @@
 title: "CV"
 ---
 
-My current CV is available here: **[Download CV (PDF)](#)**
-
 ## Education
 
-- **[Year–Year]** · [Degree], [Institution]
-- **[Year–Year]** · [Degree], [Institution]
+- **September 2025–present** · PhD student, School of Journalism, Renmin University of China  
+  Research interests include global South journalism, international communication, and rural communication. Primary approach: qualitative research.
+- **September 2022–July 2025** · Master’s student, School of Journalism and Communication, University of Chinese Academy of Social Sciences  
+  Research interests included rural communication and platform regionalization.
+- **September 2019–July 2022** · Second major in Journalism, School of Journalism, Fudan University
+- **September 2017–July 2022** · Bachelor’s degree, School of Pharmacy, Fudan University
 
 ## Appointments
 

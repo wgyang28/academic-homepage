@@ -7,36 +7,37 @@ page-layout: full
 ::: {.hero-copy}
 # Yang Wengen
 
-**PhD Candidate · Researcher · Writer**
+**PhD Student · Researcher · Writer**
 
-I am a PhD candidate at **Renmin University of China**. I study **global journalism and communication**, with interests in how journalism, media institutions, and communication practices operate across borders.
+I am a PhD student at **Renmin University of China**, based in Beijing. I research journalism and communication in relation to rural areas and development in the Global South. My work focuses on how journalism, media institutions, and communication practices are shaped by transnational flows, platforms, and local contexts.
 
 ::: {.hero-links}
 [View research](research.qmd){.btn .btn-primary}
-[Download CV](cv.qmd){.btn .btn-outline-primary}
 :::
 :::
 
 ::: {.hero-note}
+![](assets/yang-wengen.png){.profile-photo fig-alt="Portrait of Yang Wengen"}
+
 ### Currently
 
-**PhD Candidate**  
-Renmin University of China
+**PhD Student**  
+Renmin University of China · Beijing, China
 
 **Research interests**  
-Global journalism · Global communication
+Journalism and communication · Rural areas · Global South development
 :::
 :::
 
 ## Welcome
 
-I am an academic researcher working on global journalism and communication. This site collects my research projects, publications, teaching materials, and selected writing.
+I am an academic researcher working on journalism and communication in relation to rural areas and development in the Global South. This site collects my research projects, publications, and selected writing.
 
 ## Selected work
 
-### Global journalism and communication
+### Current research
 
-A research profile and project descriptions will be added here as the work develops.
+I am currently conducting a global study of local journalism and researching newspaper activities during the early period of the Vietnamese revolution.
 
 [Read more →](research.qmd)
 
@@ -50,4 +51,4 @@ Publication details will be added here after the list is finalized.
 
 ## Contact
 
-The best way to reach me is [your.email@example.com](mailto:your.email@example.com). I welcome inquiries about research, collaboration, teaching, or speaking.
+The best way to reach me is [i@wgyang.cn](mailto:i@wgyang.cn). My university email is [wgyang25@ruc.edu.cn](mailto:wgyang25@ruc.edu.cn). I welcome inquiries about research, collaboration, or speaking.

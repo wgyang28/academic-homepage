@@ -14,15 +14,13 @@ website:
         text: Research
       - href: publications.qmd
         text: Publications
-      - href: teaching.qmd
-        text: Teaching
       - href: cv.qmd
         text: CV
     right:
       - icon: github
-        href: https://github.com/
+        href: "#"
       - icon: envelope
-        href: mailto:your.email@example.com
+        href: mailto:i@wgyang.cn
   page-footer:
     left: "© 2026 Yang Wengen"
     right: "Built with Quarto · Hosted on Cloudflare Pages"

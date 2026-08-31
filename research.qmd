@@ -2,24 +2,24 @@
 title: "Research"
 ---
 
-My research examines global journalism and communication through comparative, transnational, and historically grounded perspectives. I am especially interested in how journalism and communication practices are shaped by institutions, platforms, borders, and local contexts.
+My research examines journalism and communication in relation to rural areas and development in the Global South. I am especially interested in how journalism, media institutions, and communication practices are shaped by transnational flows, platforms, and local contexts.
 
 ## Current projects
 
-### Current research project
+### Local journalism in global perspective
 
 **Status** · Ongoing  
-**Keywords** · global journalism, global communication, transnational media
+**Keywords** · local journalism, global journalism, news environments
 
-Detailed project information will be added here, including the empirical setting, research question, materials, and contribution.
+This project examines local journalism across different parts of the world, with attention to the changing relationships among local news organizations, communities, platforms, and wider political and economic environments.
 
-### [Project title]
+### Newspaper activities during the early Vietnamese revolution
 
-**Status** · [Ongoing / completed]  
-**Keywords** · [keyword 1], [keyword 2]
+**Status** · Ongoing  
+**Keywords** · Vietnam, revolutionary press, newspaper history, journalism history
 
-Describe the second project here. Add a link to a working paper or project page when available.
+This project studies newspaper activities during the early period of the Vietnamese revolution, focusing on the development of the press, its political and social contexts, and its relationship to revolutionary mobilization.
 
 ## Methods and materials
 
-My work draws on **[interviews / archives / ethnography / surveys / computational methods]**. Where appropriate, I make data, code, interview instruments, and archival references available through the project pages.
+My primary approach is qualitative research, drawing on interviews, fieldwork, archival materials, and historical documents. I am also open to learning quantitative methods when collaborating with other researchers. My field research has included rural areas in Jingdezhen, southern Henan, Yunnan, Zhejiang, Guangdong, Beijing, Anhui, and Gansu, China.
