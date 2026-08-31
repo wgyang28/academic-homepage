@@ -13,9 +13,6 @@ I am a PhD student at **Renmin University of China**, based in Beijing. I resear
 
 Outside academia, I enjoy cycling, hiking, and backpacking. I have cycled more than 15,000 kilometers, much of it on multi-day long-distance journeys, and am currently thinking about taking up swimming.
 
-::: {.hero-links}
-[View research](research.qmd){.btn .btn-primary}
-:::
 :::
 
 ::: {.hero-note}
@@ -35,23 +32,27 @@ Journalism and communication · Rural areas · Global South development
 
 I am an academic researcher working on journalism and communication in relation to rural areas and development in the Global South. This site collects my research projects, publications, and selected writing.
 
-## Selected work
+## Research
 
-### Current research
+### Local journalism in global perspective
 
-I am currently conducting a global study of local journalism and researching newspaper activities during the early period of the Vietnamese revolution.
+**Status** · Ongoing  
+**Keywords** · local journalism, global journalism, news environments
+
+This project examines local journalism across different parts of the world, with attention to the changing relationships among local news organizations, communities, platforms, and wider political and economic environments.
+
+### Newspaper activities during the early Vietnamese revolution
+
+**Status** · Ongoing  
+**Keywords** · Vietnam, revolutionary press, newspaper history, journalism history
+
+This project studies newspaper activities during the early period of the Vietnamese revolution, focusing on the development of the press, its political and social contexts, and its relationship to revolutionary mobilization.
 
 My field research has included rural areas in Jingdezhen, southern Henan, Yunnan, Zhejiang, Guangdong, Beijing, Anhui, and Gansu, China, as well as northern Vietnam.
 
-[Read more →](research.qmd)
+## Methods and materials
 
-### Recent work
-
-Publication details will be added here after the list is finalized.
-
-## News
-
-- **2026** — Personal academic homepage launched.
+My primary approach is qualitative research, drawing on interviews and fieldwork. In response to my research on newspaper activities during the early period of the Vietnamese revolution, I have recently begun exploring historical research and archival analysis. I am also open to learning quantitative methods when collaborating with other researchers. My field research has included rural areas in Jingdezhen, southern Henan, Yunnan, Zhejiang, Guangdong, Beijing, Anhui, and Gansu, China, as well as northern Vietnam.
 
 ## Contact
 
