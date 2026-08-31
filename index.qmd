@@ -1,0 +1,55 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.hero}
+::: {.hero-copy}
+# Your Name
+
+**Researcher · Writer · Teacher**
+
+I study **[your research area]**, with a focus on **[your central question]**. My work connects **[field or region]** with **[method, archive, or wider debate]**.
+
+::: {.hero-links}
+[View research](research.qmd){.btn .btn-primary}
+[Download CV](cv.qmd){.btn .btn-outline-primary}
+:::
+:::
+
+::: {.hero-note}
+### Currently
+
+**[Position or affiliation]**  
+[Department or institution]  
+[City, Country]
+
+**Research interests**  
+[Area 1] · [Area 2] · [Area 3]
+:::
+:::
+
+## Welcome
+
+I am an academic working on **[one-sentence description of your research]**. This site collects my research projects, publications, teaching materials, and selected writing.
+
+## Selected work
+
+### [Project or paper title]
+
+A two- or three-sentence description of the project. State the question, material, and contribution in plain language.
+
+[Read more →](research.qmd)
+
+### [Recent publication]
+
+**Your Name.** 2026. “Title of article.” *Journal Name* 00(0): 00–00. [Read article →](https://doi.org/)
+
+## News
+
+- **2026-00-00** — [Add a talk, publication, award, or fieldwork update]
+- **2026-00-00** — [Add another update]
+
+## Contact
+
+The best way to reach me is [your.email@example.com](mailto:your.email@example.com). I welcome inquiries about **[research, collaboration, teaching, or speaking]**.

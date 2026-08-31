@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Your Name | Academic Homepage"
+  description: "Academic homepage of Your Name"
+  site-url: "https://your-domain.example"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: github
+        href: https://github.com/your-username
+      - icon: envelope
+        href: mailto:your.email@example.com
+  page-footer:
+    left: "© 2026 Your Name"
+    right: "Built with Quarto · Hosted on Cloudflare Pages"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    include-in-header: meta.html
+
+execute:
+  freeze: true

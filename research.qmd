@@ -1,0 +1,25 @@
+---
+title: "Research"
+---
+
+My research examines **[your broad problem]** through **[your materials and methods]**. I am especially interested in how **[key relationship or mechanism]** shapes **[outcome]**.
+
+## Current projects
+
+### [Project title]
+
+**Status** · [Ongoing / dissertation / funded project]  
+**Keywords** · [keyword 1], [keyword 2], [keyword 3]
+
+Describe the project in one focused paragraph. Explain the empirical setting, the question, and what the project adds.
+
+### [Project title]
+
+**Status** · [Ongoing / completed]  
+**Keywords** · [keyword 1], [keyword 2]
+
+Describe the second project here. Add a link to a working paper or project page when available.
+
+## Methods and materials
+
+My work draws on **[interviews / archives / ethnography / surveys / computational methods]**. Where appropriate, I make data, code, interview instruments, and archival references available through the project pages.

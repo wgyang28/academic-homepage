@@ -1,0 +1,26 @@
+---
+title: "Publications"
+---
+
+## Journal articles
+
+1. **Your Name.** 2026. “Title of article.” *Journal Name* 00(0): 00–00. [DOI](https://doi.org/)
+2. **Your Name and Coauthor.** 2025. “Title of article.” *Journal Name* 00(0): 00–00. [PDF](#)
+
+## Book chapters
+
+1. **Your Name.** 2025. “Chapter title.” In *Book Title*, edited by Editor Name, 00–00. Publisher.
+
+## Working papers
+
+1. **Your Name.** “Working paper title.” [Draft PDF](#)
+
+## Public writing
+
+1. **Your Name.** “Essay title.” *Publication*, 2026-00-00. [Read online](#)
+
+::: {.callout-note}
+## Citation files
+
+You can add `assets/your-name.bib` and link it here once your publication list is finalized.
+:::

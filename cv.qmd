@@ -1,0 +1,22 @@
+---
+title: "CV"
+---
+
+My current CV is available here: **[Download CV (PDF)](#)**
+
+## Education
+
+- **[Year–Year]** · [Degree], [Institution]
+- **[Year–Year]** · [Degree], [Institution]
+
+## Appointments
+
+- **[Year–present]** · [Position], [Institution]
+
+## Awards and grants
+
+- [Year] · [Award or grant]
+
+## Selected presentations
+
+- [Year] · “[Talk title],” [Event], [Location]
