@@ -17,8 +17,6 @@ website:
       - href: cv.qmd
         text: CV
     right:
-      - icon: github
-        href: "#"
       - icon: envelope
         href: mailto:i@wgyang.cn
   page-footer:
