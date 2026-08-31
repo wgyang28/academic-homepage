@@ -5,11 +5,11 @@ page-layout: full
 
 ::: {.hero}
 ::: {.hero-copy}
-# Your Name
+# Yang Wengen
 
-**Researcher · Writer · Teacher**
+**PhD Candidate · Researcher · Writer**
 
-I study **[your research area]**, with a focus on **[your central question]**. My work connects **[field or region]** with **[method, archive, or wider debate]**.
+I am a PhD candidate at **Renmin University of China**. I study **global journalism and communication**, with interests in how journalism, media institutions, and communication practices operate across borders.
 
 ::: {.hero-links}
 [View research](research.qmd){.btn .btn-primary}
@@ -20,36 +20,34 @@ I study **[your research area]**, with a focus on **[your central question]**. M
 ::: {.hero-note}
 ### Currently
 
-**[Position or affiliation]**  
-[Department or institution]  
-[City, Country]
+**PhD Candidate**  
+Renmin University of China
 
 **Research interests**  
-[Area 1] · [Area 2] · [Area 3]
+Global journalism · Global communication
 :::
 :::
 
 ## Welcome
 
-I am an academic working on **[one-sentence description of your research]**. This site collects my research projects, publications, teaching materials, and selected writing.
+I am an academic researcher working on global journalism and communication. This site collects my research projects, publications, teaching materials, and selected writing.
 
 ## Selected work
 
-### [Project or paper title]
+### Global journalism and communication
 
-A two- or three-sentence description of the project. State the question, material, and contribution in plain language.
+A research profile and project descriptions will be added here as the work develops.
 
 [Read more →](research.qmd)
 
-### [Recent publication]
+### Recent work
 
-**Your Name.** 2026. “Title of article.” *Journal Name* 00(0): 00–00. [Read article →](https://doi.org/)
+Publication details will be added here after the list is finalized.
 
 ## News
 
-- **2026-00-00** — [Add a talk, publication, award, or fieldwork update]
-- **2026-00-00** — [Add another update]
+- **2026** — Personal academic homepage launched.
 
 ## Contact
 
-The best way to reach me is [your.email@example.com](mailto:your.email@example.com). I welcome inquiries about **[research, collaboration, teaching, or speaking]**.
+The best way to reach me is [your.email@example.com](mailto:your.email@example.com). I welcome inquiries about research, collaboration, teaching, or speaking.

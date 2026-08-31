@@ -3,8 +3,8 @@ project:
   output-dir: _site
 
 website:
-  title: "Your Name | Academic Homepage"
-  description: "Academic homepage of Your Name"
+  title: "Yang Wengen | Homepage"
+  description: "Homepage of Yang Wengen"
   site-url: "https://your-domain.example"
   navbar:
     left:
@@ -20,11 +20,11 @@ website:
         text: CV
     right:
       - icon: github
-        href: https://github.com/your-username
+        href: https://github.com/
       - icon: envelope
         href: mailto:your.email@example.com
   page-footer:
-    left: "© 2026 Your Name"
+    left: "© 2026 Yang Wengen"
     right: "Built with Quarto · Hosted on Cloudflare Pages"
 
 format:
