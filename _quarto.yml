@@ -5,7 +5,7 @@ project:
 website:
   title: "Yang Wengen | Homepage"
   description: "Homepage of Yang Wengen"
-  site-url: "https://your-domain.example"
+  site-url: "https://wgyang.cn"
   navbar:
     left:
       - href: index.qmd
