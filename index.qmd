@@ -9,7 +9,7 @@ page-layout: full
 
 **PhD Student · Researcher · Writer**
 
-I am a PhD student at **Renmin University of China**, based in Beijing. I research journalism and communication in relation to rural areas and development in the Global South. My work focuses on how journalism, media institutions, and communication practices are shaped by transnational flows, platforms, and local contexts.
+I am a PhD student at **Renmin University of China**, based in Beijing. I research journalism and communication in relation to rural areas and development in the Global South.
 
 ::: {.hero-links}
 [View research](research.qmd){.btn .btn-primary}
@@ -38,6 +38,8 @@ I am an academic researcher working on journalism and communication in relation 
 ### Current research
 
 I am currently conducting a global study of local journalism and researching newspaper activities during the early period of the Vietnamese revolution.
+
+My field research has included rural areas in Jingdezhen, southern Henan, Yunnan, Zhejiang, Guangdong, Beijing, Anhui, and Gansu, China, as well as northern Vietnam.
 
 [Read more →](research.qmd)
 
