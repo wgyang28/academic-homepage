@@ -13,7 +13,7 @@ body { color: var(--ink); background: var(--paper); }
 .hero h1 { font-size: clamp(3rem, 8vw, 6.5rem); line-height: .95; letter-spacing: -.06em; margin-bottom: 1.25rem; }
 .hero-copy > p { max-width: 42rem; font-size: 1.3rem; line-height: 1.65; color: var(--muted); }
 .hero-note { align-self: end; border-left: 3px solid var(--accent); padding: .5rem 0 .5rem 1.5rem; color: var(--muted); }
-.profile-photo { width: 60px; height: 60px; object-fit: cover; border-radius: 50%; margin: 0 0 1.5rem; border: 3px solid white; box-shadow: 0 5px 15px rgba(23, 32, 42, .12); }
+.profile-photo { width: 120px; height: 120px; object-fit: cover; border-radius: 50%; margin: 0 0 1.5rem; border: 3px solid white; box-shadow: 0 5px 15px rgba(23, 32, 42, .12); }
 .hero-note h3 { color: var(--ink); font-size: 1rem; text-transform: uppercase; letter-spacing: .1em; }
 .hero-links { display: flex; gap: .75rem; margin-top: 2rem; }
 .btn { border-radius: 999px; padding: .65rem 1.2rem; }
