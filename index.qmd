@@ -7,10 +7,13 @@ page-layout: full
 ::: {.hero-copy}
 # Yang Wengen
 
+**博士生 · 研究者 · 写作者**  
 **PhD Student · Researcher · Writer**
 
+我目前是**中国人民大学博士生**，生活和学习于北京，研究新闻传播与乡村地区及全球南方发展之间的关系。  
 I am a PhD student at **Renmin University of China**, based in Beijing. I research journalism and communication in relation to rural areas and development in the Global South.
 
+学术研究之外，我喜欢骑行、徒步和背包旅行。我已经骑行超过15,000公里，其中许多是多日长途旅行，最近正在考虑学习游泳。  
 Outside academia, I enjoy cycling, hiking, and backpacking. I have cycled more than 15,000 kilometers, much of it on multi-day long-distance journeys, and am currently thinking about taking up swimming.
 
 :::
@@ -18,42 +21,42 @@ Outside academia, I enjoy cycling, hiking, and backpacking. I have cycled more t
 ::: {.hero-note}
 ![](assets/yang-wengen.png){.profile-photo fig-alt="Portrait of Yang Wengen"}
 
-### Currently
+### 目前 Currently
 
-**PhD Student**  
+**博士生 PhD Student**  
+中国人民大学 · 北京，中国  
 Renmin University of China · Beijing, China
 
-**Research interests**  
+**研究兴趣 Research interests**  
+新闻传播 · 乡村地区 · 全球南方发展  
 Journalism and communication · Rural areas · Global South development
 :::
 :::
 
-## Welcome
+## 关于我 About
 
+我关注新闻传播与乡村地区及全球南方发展之间的关系。本网站整理我的研究项目、发表成果和其他写作。  
 I am an academic researcher working on journalism and communication in relation to rural areas and development in the Global South. This site collects my research projects, publications, and selected writing.
 
-## Research
+## 研究 Research
 
+### 全球视野下的地方新闻业  
 ### Local journalism in global perspective
 
-**Status** · Ongoing  
-**Keywords** · local journalism, global journalism, news environments
+**状态 Status** · 进行中 Ongoing  
+**关键词 Keywords** · 地方新闻业、全球新闻业、新闻环境  
+local journalism, global journalism, news environments
 
+这一研究考察世界不同地区的地方新闻业，关注地方新闻机构、社区、平台以及更广泛的政治经济环境之间不断变化的关系。  
 This project examines local journalism across different parts of the world, with attention to the changing relationships among local news organizations, communities, platforms, and wider political and economic environments.
 
-### Newspaper activities during the early Vietnamese revolution
+### 研究方法与材料  
+### Methods and materials
 
-**Status** · Ongoing  
-**Keywords** · Vietnam, revolutionary press, newspaper history, journalism history
+我的主要方法是质性研究，使用访谈和田野调查等材料。在合作研究中，我也愿意学习量化方法。我的田野经历包括中国景德镇、河南南部、云南、浙江、广东、北京、安徽和甘肃的农村地区，以及越南北部。  
+My primary approach is qualitative research, drawing on interviews and fieldwork. I am also open to learning quantitative methods when collaborating with other researchers. My field research has included rural areas in Jingdezhen, southern Henan, Yunnan, Zhejiang, Guangdong, Beijing, Anhui, and Gansu, China, as well as northern Vietnam.
 
-This project studies newspaper activities during the early period of the Vietnamese revolution, focusing on the development of the press, its political and social contexts, and its relationship to revolutionary mobilization.
+## 联系方式 Contact
 
-My field research has included rural areas in Jingdezhen, southern Henan, Yunnan, Zhejiang, Guangdong, Beijing, Anhui, and Gansu, China, as well as northern Vietnam.
-
-## Methods and materials
-
-My primary approach is qualitative research, drawing on interviews and fieldwork. In response to my research on newspaper activities during the early period of the Vietnamese revolution, I have recently begun exploring historical research and archival analysis. I am also open to learning quantitative methods when collaborating with other researchers. My field research has included rural areas in Jingdezhen, southern Henan, Yunnan, Zhejiang, Guangdong, Beijing, Anhui, and Gansu, China, as well as northern Vietnam.
-
-## Contact
-
+欢迎通过 [i@wgyang.cn](mailto:i@wgyang.cn) 联系我。学校邮箱是 [wgyang25@ruc.edu.cn](mailto:wgyang25@ruc.edu.cn)。欢迎联系研究、合作或学术交流事宜。  
 The best way to reach me is [i@wgyang.cn](mailto:i@wgyang.cn). My university email is [wgyang25@ruc.edu.cn](mailto:wgyang25@ruc.edu.cn). I welcome inquiries about research, collaboration, or speaking.

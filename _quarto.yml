@@ -9,11 +9,11 @@ website:
   navbar:
     left:
       - href: index.qmd
-        text: Home
+        text: 首页 Home
       - href: publications.qmd
-        text: Publications
+        text: 发表 Publications
       - href: cv.qmd
-        text: CV
+        text: 简历 CV
     right:
       - icon: envelope
         href: mailto:i@wgyang.cn
