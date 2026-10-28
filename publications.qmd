@@ -45,9 +45,3 @@ Working papers will be added here when available.
 公共写作将在确定后补充。  
 Public writing will be added here when available.
 
-::: {.callout-note}
-## 引用文件 Citation files
-
-论文列表确定后，可以在这里添加 BibTeX 文件。  
-You can add a BibTeX file and link it here once your publication list is finalized.
-:::
